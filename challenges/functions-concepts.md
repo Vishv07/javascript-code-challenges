@@ -55,7 +55,7 @@ Function can also be stored in variables like other values in JavaScript
 <br />
 
 #### Q2
-### Write a function which executes another function recieved as an argument
+### Write a function which executes another function received as an argument
 - Functions can be passed as arguments to another functions
 - Passing the function as argument will pass its reference hence no parenthesis
 
